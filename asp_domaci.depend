@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1671068260 source:c:\users\zephyrus\desktop\asp_domaci\main.cpp
+	<iostream>
+	<fstream>
+	<stddef.h>
+	<sstream>
+
